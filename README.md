@@ -11,7 +11,7 @@ mxnet Guide
 
 https://beta.mxnet.io/guide/index.html
 
-2. Gluoncv
+2. GluonCV
 
 https://gluon-cv.mxnet.io/
 
