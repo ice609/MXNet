@@ -7,7 +7,9 @@ http://zh.gluon.ai/
 
 https://discuss.gluon.ai/
 
-mxnet Guide  https://beta.mxnet.io/guide/index.html
+mxnet Guide  
+
+https://beta.mxnet.io/guide/index.html
 
 2. Gluoncv
 
